@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NMCandidate</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email*</string>
+    <string name="prompt_password">Password*</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">Contacts permissions are needed for providing email
+        completions.
+    </string>
+    <string name="candidate_type_header">Choose your work status</string>
+    <string name="candidate_type_fresher_title">Fresher</string>
+    <string name="candidate_type_exp_title">Experienced</string>
+    <string name="candidate_type_fresher_tag">I am fresher / I dont have worked yet.</string>
+    <string name="candidate_type_exp_tag">I am working / I have worked before.</string>
+    <string name="register_with_nokari">Register with nokari</string>
+    <string name="create_password">Create password* (Min 6 character)</string>
+    <string name="name">Full Name*</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="current_address">Current Address</string>
+    <string name="per_address">Permanent Address</string>
+    <string name="address">Address</string>
+    <string name="same_as_current_add">Same as current address</string>
+    <string name="whats_app_no">Whats app No.</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_later">Upload Later</string>
+    <string name="upload_resume">Upload Resume</string>
+    <string name="qualification">Qualification</string>
+    <string name="course">Course</string>
+
+    <string-array name="qualification" >
+        <item >Doctorate / Phd</item>
+        <item >Masters</item>
+        <item >Graduate</item>
+        <item >Under Graduate</item>
+    </string-array>
+    <string name="specialization">Specialization</string>
+    <string name="university">University / Institute</string>
+    <string name="pass_year">Passing Year</string>
+    <string name="course_type">Cource Type</string>
+    <string name="full_time">Full Time</string>
+    <string name="part_time">Part Time</string>
+    <string name="skills">Skills</string>
+</resources>
